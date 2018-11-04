@@ -1,0 +1,17 @@
+main h2 {
+    margin: 0;
+}
+main section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+main section a {
+    padding: .5em;
+}
+main section span {
+    font-family: "Apple Color Emoji","Segoe UI Emoji","NotoColorEmoji","Segoe UI Symbol","Android Emoji","EmojiSymbols";
+    font-size: 200%;
+    width: 1.5em;
+    text-align: center;
+}
