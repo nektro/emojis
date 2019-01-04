@@ -15,3 +15,7 @@ main section span {
     width: 1.5em;
     text-align: center;
 }
+main section span img {
+    max-width: 36px;
+    max-height: 36px;
+}
